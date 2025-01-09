@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMultiPlayer.a CMakeFiles/MultiPlayer.dir/src/flightgear/MultiPlayer/tiny_xdr.cxx.o
+/usr/bin/ranlib libMultiPlayer.a

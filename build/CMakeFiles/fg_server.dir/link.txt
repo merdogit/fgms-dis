@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfg_server.a CMakeFiles/fg_server.dir/src/server/fg_server.cxx.o CMakeFiles/fg_server.dir/src/server/fg_tracker.cxx.o CMakeFiles/fg_server.dir/src/server/fg_config.cxx.o CMakeFiles/fg_server.dir/src/server/fg_list.cxx.o CMakeFiles/fg_server.dir/src/server/fg_cli.cxx.o CMakeFiles/fg_server.dir/src/server/fg_util.cxx.o CMakeFiles/fg_server.dir/src/server/daemon.cxx.o CMakeFiles/fg_server.dir/src/server/fg_geometry.cxx.o
+/usr/bin/ranlib libfg_server.a

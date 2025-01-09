@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSGdebug.a CMakeFiles/SGdebug.dir/src/simgear/debug/logstream.cxx.o
+/usr/bin/ranlib libSGdebug.a

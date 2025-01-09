@@ -1,0 +1,15 @@
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/fg_server.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/MultiPlayer.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/Plib.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/LibCLI.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/SGdebug.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/pugixml.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/openDIS.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/dis_gateway.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/fgms.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/edit_cache.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/rebuild_cache.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/list_install_components.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/install.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/install/local.dir
+/home/murate/Documents/FGMS_DIS/fgms-dis/build/CMakeFiles/install/strip.dir

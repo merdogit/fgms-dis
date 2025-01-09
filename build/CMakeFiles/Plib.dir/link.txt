@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPlib.a CMakeFiles/Plib.dir/src/plib/netSocket.cxx.o
+/usr/bin/ranlib libPlib.a

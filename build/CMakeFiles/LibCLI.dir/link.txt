@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibCLI.a CMakeFiles/LibCLI.dir/src/libcli/debug.cxx.o CMakeFiles/LibCLI.dir/src/libcli/filter.cxx.o CMakeFiles/LibCLI.dir/src/libcli/cli_client.cxx.o CMakeFiles/LibCLI.dir/src/libcli/libcli.cxx.o
+/usr/bin/ranlib libLibCLI.a

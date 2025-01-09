@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdis_gateway.a CMakeFiles/dis_gateway.dir/src/dis_gateway/CallSignManager.cpp.o CMakeFiles/dis_gateway.dir/src/dis_gateway/DISBroker.cpp.o CMakeFiles/dis_gateway.dir/src/dis_gateway/dr.cpp.o CMakeFiles/dis_gateway.dir/src/dis_gateway/EntityTable.cpp.o CMakeFiles/dis_gateway.dir/src/dis_gateway/Quat.cpp.o
+/usr/bin/ranlib libdis_gateway.a
